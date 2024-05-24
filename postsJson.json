@@ -1,0 +1,33 @@
+[
+    {
+      "titolo": "Scoprire le Meraviglie del Mondo",
+      "contenuto": "Esploriamo insieme alcune delle meraviglie più affascinanti del nostro pianeta, dai deserti alle foreste pluviali.",
+      "immagine": "http://localhost:3000/travel.jpg",
+      "tags": ["viaggi", "natura", "avventura"]
+    },
+    {
+      "titolo": "Guida alla Programmazione in JavaScript",
+      "contenuto": "In questa guida, ti mostreremo come iniziare a programmare in JavaScript, uno dei linguaggi più popolari al mondo.",
+      "immagine": "http://localhost:3000/programmazione.jpg",
+      "tags": ["programmazione", "JavaScript", "coding"]
+    },
+    {
+      "titolo": "Ricette Facili e Veloci per Tutti i Giorni",
+      "contenuto": "Scopri come preparare piatti deliziosi in pochi minuti con queste ricette semplici e veloci.",
+      "immagine": "http://localhost:3000/kitchen.jpg",
+      "tags": ["cucina", "ricette", "facile", "veloce"]
+    },
+    {
+      "titolo": "Fitness e Benessere: Come Mantenersi in Forma",
+      "contenuto": "Consigli e esercizi per mantenersi in forma e vivere una vita sana e attiva.",
+      "immagine": "http://localhost:3000/gym.jpg",
+      "tags": ["fitness", "benessere", "salute"]
+    },
+    {
+      "titolo": "Il Fascino dell'Arte Contemporanea",
+      "contenuto": "Un viaggio attraverso le opere e gli artisti che stanno plasmando il mondo dell'arte contemporanea.",
+      "immagine": "http://localhost:3000/art.jpg",
+      "tags": ["arte", "contemporanea", "cultura"]
+    }
+  ]
+  
