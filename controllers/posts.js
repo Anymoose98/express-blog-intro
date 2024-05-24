@@ -1,9 +1,7 @@
-const {base , posts} = require("../postsArray")
+const { base, posts } = require("../postsArray")
 const postsJson = require("../postsJson.json")
 const fs = require('fs');
 const path = require('path');
-
-console.log(postsJson)
 
 
 

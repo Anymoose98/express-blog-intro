@@ -3,8 +3,8 @@ const express = require('express');
 const app = express();
 const port = 3000
 app.use(express.static('public'))
-    // Prendo il file di posts
-    const posts = require("./controllers/posts.js");
+// Prendo il file di posts
+const posts = require("./controllers/posts.js");
 
 // Pagina benvenuto
 app.get('/', (req, res) => {
@@ -13,6 +13,10 @@ app.get('/', (req, res) => {
 
 // Posts
 app.get("/posts", posts.index)
+
+app.post("/posts", (req, res) => {
+    res.send('è andata')
+})
 
 app.listen(port, () => {
 })
